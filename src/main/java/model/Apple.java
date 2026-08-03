@@ -8,15 +8,12 @@ package model;
 import model.constants.Colour;
 import model.constants.Discount;
 
-import java.util.Objects;
-
 public class Apple extends Food{
-    String colour;
+    private final String colour;
+
     public Apple(int amount,float price,String colour){
-        this.amount = amount;
-        this.price = price;
+        super(amount, price,  true);
         this.colour = colour;
-        this.isVegetarian = true;
     }
 
     @Override

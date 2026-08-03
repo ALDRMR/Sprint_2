@@ -13,6 +13,12 @@ public abstract class Food implements Discountable{
     protected float price;
     protected boolean isVegetarian;
 
+    public Food(int amount, float price, boolean isVegetarian){
+        this.amount = amount;
+        this.price = price;
+        this.isVegetarian = isVegetarian;
+    }
+
     @Override
     public float getDiscount() {
         return Discount.DEFAULT_DISCOUNT;

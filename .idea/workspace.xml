@@ -4,47 +4,45 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0522cd3c-c6b4-4a8a-bc78-40893e97c8aa" name="Changes" comment="проект целиком" />
+    <list default="true" id="be8c65d4-6ed7-4860-9975-38438024bc7e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pom.xml.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Meat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Meat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/ShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/ShoppingCart.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="develop" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;ALDRMR&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ALDRMR"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/ALDRMR/Sprint_2.git&quot;,
-    &quot;accountId&quot;: &quot;1b42b05c-3de6-4577-a5c8-48b812f8fd62&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ALDRMR/Sprint_2.git",
+    "accountId": "1b42b05c-3de6-4577-a5c8-48b812f8fd62"
   }
-}</component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="3H5Poj1c1qSfNFSkGYPnmUeqtWQ" />
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3HPEvCW6fXJOwIKETY0jSXlL2Lg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -54,31 +52,16 @@
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "#1 on develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/LegionS7i-Alex/IdeaProjects/Sprint_2",
-    "onboarding.tips.debug.path": "C:/Users/LegionS7i-Alex/Sprint_2/src/main/java/org/example/Main.java",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+    "last_opened_file_path": "C:/Users/LegionS7i-Alex/Sprint_2"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Sprint_2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,28 +81,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0522cd3c-c6b4-4a8a-bc78-40893e97c8aa" name="Changes" comment="" />
-      <created>1785155132983</created>
+      <changelist id="be8c65d4-6ed7-4860-9975-38438024bc7e" name="Changes" comment="" />
+      <created>1785761532285</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1785155132983</updated>
+      <updated>1785761532285</updated>
     </task>
-    <task id="LOCAL-00001" summary="проект целиком">
-      <option name="closed" value="true" />
-      <created>1785166338069</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1785166338069</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="проект целиком" />
-    <option name="LAST_COMMIT_MESSAGE" value="проект целиком" />
   </component>
 </project>
